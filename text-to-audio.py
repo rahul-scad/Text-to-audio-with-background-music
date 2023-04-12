@@ -10,7 +10,7 @@ from pydub import AudioSegment
 import os
 
 # Define the text to be converted to speech
-text = "Hello world! "
+text = "Hello world!"
 
 
 # Define the language
